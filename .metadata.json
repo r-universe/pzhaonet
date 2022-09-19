@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "mindr",
-    "oncran": true
-  },
-  {
     "package": "pinyin",
     "oncran": true
   }

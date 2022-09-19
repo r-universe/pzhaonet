@@ -13,11 +13,6 @@
 	url = https://github.com/pzhaonet/bookdownplus
 	shallow = true
 	registered = true
-[submodule "mindr"]
-	path = mindr
-	url = https://github.com/pzhaonet/mindr
-	shallow = true
-	registered = true
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/pzhaonet/pinyin
