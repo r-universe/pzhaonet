@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "beginr"]
-	path = beginr
-	url = https://github.com/pzhaonet/beginr
-	shallow = true
-	registered = true
-[submodule "bookdownplus"]
-	path = bookdownplus
-	url = https://github.com/pzhaonet/bookdownplus
-	shallow = true
-	registered = true
 [submodule "mindr"]
 	path = mindr
 	url = https://github.com/pzhaonet/mindr
 	shallow = true
 	registered = true
+[submodule "beginr"]
+	path = beginr
+	url = https://github.com/pzhaonet/beginr
+	shallow = true
+	registered = true
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/pzhaonet/pinyin
+	shallow = true
+	registered = true
+[submodule "bookdownplus"]
+	path = bookdownplus
+	url = https://github.com/pzhaonet/bookdownplus
 	shallow = true
 	registered = true
