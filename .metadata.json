@@ -1,18 +1,18 @@
 [
   {
-    "package": "mindr",
-    "oncran": true
-  },
-  {
     "package": "beginr",
     "oncran": true
   },
   {
-    "package": "pinyin",
+    "package": "bookdownplus",
     "oncran": true
   },
   {
-    "package": "bookdownplus",
+    "package": "mindr",
+    "oncran": true
+  },
+  {
+    "package": "pinyin",
     "oncran": true
   }
 ]
