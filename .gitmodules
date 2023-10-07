@@ -14,3 +14,6 @@
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/pzhaonet/pinyin
+[submodule "rarestR"]
+	path = rarestR
+	url = https://github.com/pzhaonet/rarestr
