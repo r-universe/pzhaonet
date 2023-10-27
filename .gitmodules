@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "beginr"]
-	path = beginr
-	url = https://github.com/pzhaonet/beginr
-[submodule "bookdownplus"]
-	path = bookdownplus
-	url = https://github.com/pzhaonet/bookdownplus
-[submodule "mindr"]
-	path = mindr
-	url = https://github.com/pzhaonet/mindr
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/pzhaonet/pinyin
